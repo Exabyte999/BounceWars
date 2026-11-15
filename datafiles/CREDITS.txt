@@ -1,0 +1,11 @@
+BOUNCE WARS - asset credits
+
+Character: custom sprite made for this game by the developer (spr_hero, tinted per skin).
+Floor, ledges + rocks: "Pixel Art Top Down - Basic" by Cainos - https://cainos.itch.io/pixel-art-top-down-basic
+       (free for free + commercial use, credit not required, no redistributing the pack)
+Pit spikes: "Animated Traps" by Stealthix - https://stealthix.itch.io/animated-traps  (CC0)
+UI panel: "Dark UI Pack 16x16 RPG" by Rahmat - https://rachmata.itch.io/wood-ui-pack-16x16-rpg-inventory  (bought, recoloured purple)
+Other art (saws, spike blocks, spiked balls, trampolines, flags, trophy, fans, buttons, font, backgrounds):
+       "Pixel Adventure 1" by Pixel Frog - https://pixelfrog-assets.itch.io/pixel-adventure-1  (CC0)
+Music: "Sunny Sprites (Light Loop)" and "Low Key Buzzing (Light Loop)" from "BUZZY BITS" by Dylann Taylor
+       - https://dylanntaylor.itch.io/buzzy-bits  (CC0, no AI)  Music by Dylann Taylor.
